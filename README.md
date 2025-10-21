@@ -1,5 +1,5 @@
 # fastapi_crud
-Projeto de API feito em fastapi utilizando banco de dados sqlalchemy e python jose(JWT)
+Projeto de API feito em fastapi utilizando banco de dados sqlalchemy e python jose(JWT).
 
 🛠️ Ferramentas: [FastAPI](https://fastapi.tiangolo.com/) - [SQLAlchemy](https://www.sqlalchemy.org/) - [Asyncio](https://docs.python.org/pt-br/3/library/asyncio.html) - [python-jose](https://python-jose.readthedocs.io/en/latest/) 
 
